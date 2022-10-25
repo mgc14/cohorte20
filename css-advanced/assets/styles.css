@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+.padre{
+
+    font-size: 20px;
+}
+
+.Parrafo1{
+    font-family: cursive;
+    font-size: larger;
+    font-weight: 600;
+    }
+
+.Parrafo2{
+    font-family: 'Freehand', cursive;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+/*root em
+rem
+toma en cuenta el tamano de fuente fijado por el navegador */

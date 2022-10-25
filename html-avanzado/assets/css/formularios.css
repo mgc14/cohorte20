@@ -1,0 +1,40 @@
+h1{
+ background-color: rgba(136, 136, 125, 0.267);   
+}
+    
+    
+    
+    
+label { 
+display: inline-block;
+width: 80px;
+}
+
+form {
+    display: inline-block ;
+    padding: 10 px;
+    width 250 px;
+    background-color:rgb(228, 148, 148);
+}
+
+
+.campo{
+    width: 150px;
+
+}
+
+#btn {
+    background-color: black;
+    border: none ;
+    padding: 0, 5px;
+    padding-bottom: 5px;
+    width: 100%
+}
+
+#btn:hover{
+    background-color: rgb(133, 133, 212);
+}
+
+button{
+    background-color: rgb(111, 186, 236);
+}
