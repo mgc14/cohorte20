@@ -1,0 +1,27 @@
+.cuadro{
+    border: 2px solid blue;
+    width: 200px;
+    height: 200px;
+}
+
+.padre{
+    border: 3px dashed green;
+    
+}
+.uno{
+    background-color:blue ;
+    position: relative;
+    top: -50px;
+    right: 100px;
+}
+
+.dos{ 
+    background-color: brown;
+}
+.tres{
+    background-color: green;
+}
+
+.cuatro{
+    background-color: aqua;
+}
