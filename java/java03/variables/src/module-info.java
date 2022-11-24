@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author magca
+ *
+ */
+module Variables {
+}
