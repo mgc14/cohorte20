@@ -1,0 +1,18 @@
+task hola {
+    doLast{
+        prinln 'Hola saludos desde gradle'
+    }
+
+
+}
+task holaG {
+    doLast (){
+        println 'Estoy compilando, hola'
+    }
+}
+
+task llamadas (dependsOn: holaG){
+    doLast (){
+        println 'Im gradle'
+    }
+}
